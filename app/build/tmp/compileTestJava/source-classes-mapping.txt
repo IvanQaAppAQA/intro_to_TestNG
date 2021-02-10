@@ -1,0 +1,8 @@
+com/example/SimpleTest.java
+ com.example.SimpleTest
+ com.example.SimpleTest$1
+ com.example.SimpleTest$2
+com/example/WithGroup.java
+ com.example.WithGroup
+ com.example.WithGroup$1
+ com.example.WithGroup$2

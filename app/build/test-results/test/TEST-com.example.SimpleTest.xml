@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.SimpleTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-10T12:42:36" hostname="ivan.golub" time="0.0">
+  <properties/>
+  <testcase name="test" classname="com.example.SimpleTest" time="0.0"/>
+  <system-out><![CDATA[setup
+test is starting
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

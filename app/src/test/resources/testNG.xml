@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Test suite">
+    <test name="Intro to TestNG">
+        <parameter name="par1" value="High"/>
+        <parameter name="par2" value="Length"/>
+
+        <groups>
+            <run>
+               <include name="include"/>
+                <exclude name="exclude"/>
+                <include name="functional testing"/>
+            </run>
+
+        </groups>
+
+        <classes>
+            <class name="com.example.SimpleTest"/>
+            <class name="com.example.WithGroup"/>
+        </classes>
+
+    </test>
+</suite>
